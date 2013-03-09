@@ -16,8 +16,6 @@ gen/
 local.properties
 
 # Eclipse project files
-.classpath
-.project
 .metadata
 bin/**
 tmp/**
@@ -28,7 +26,6 @@ tmp/**/*
 *~.nib
 local.properties
 .classpath
-.settings/
 .loadpath
 
 # External tool builders
